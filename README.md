@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 ![Prework](https://github.com/YvonneAriri/Prework_YvonneAriri/assets/102451432/3d5aa80b-05b5-457d-8488-15b38422c241)
-GIF created with ...  LiceCap
+
+GIF created with LiceCap
 
 ## App Brainstorming (Step 4)
 Twitter:
@@ -27,6 +28,7 @@ Twitter:
 Instagram:
     - Edit a comment on someone's post.
     - Adding a background image.
+
 TikTok:
     - Edit a comment on someone's post.
     - Adding a background image.
